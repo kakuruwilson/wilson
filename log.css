@@ -1,0 +1,86 @@
+
+* {
+    margin: 0;
+    padding: 0;
+   
+}
+body {
+    background-color: aliceblue;
+    font-family: Arial, sans-serif;
+}
+.navbar {
+    background-color: maroon;
+}
+
+.navbar-nav .nav-link {
+    margin-left: 20px;
+    color: aliceblue;
+    
+}
+
+.navbar-nav .nav-link:hover {
+    color: aqua;
+}
+
+.navbar .navbar-brand {
+    font-weight: bolder;
+    color: red;
+}
+
+.navbar .navbar-toggler {
+    border-color: white;
+}
+
+.navbar .navbar-toggler-icon {
+    background-color: white;
+}
+
+.card {
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-left: 10%;
+    margin-top: 5%;
+    height: 350px;
+    width: 500px;
+}
+
+.card h2 {
+    font-size: 1.8rem;
+    
+}
+.form-control{
+    margin-top: 20px;
+}
+.form-control input{
+    width: 200px;
+    height: 40px;
+}
+
+
+.btn-danger {
+    background-color: red;
+    border-color: red;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.btn-danger:hover {
+    background-color: darkred;
+    border-color: darkred;
+}
+
+.form-check-label {
+    font-size: 14px;
+}
+
+a {
+    color: maroon;
+    text-decoration: none;
+    margin-left: 25px;
+}
+
+a:hover {
+    text-decoration: underline;
+}
