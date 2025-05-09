@@ -1,0 +1,101 @@
+*{
+    margin: auto 0;
+    padding: 0;
+}
+.navbar{
+    width: 100%;
+    height: 100px;
+    border-bottom:  2px solid orangered;
+    display: flex;
+    background-color: maroon;
+    color: aliceblue;
+}
+.nav{
+    margin-left: 40px;
+    display: flex;
+}
+.navbar:hover{
+    color: aqua;
+}
+.mas{
+    color:red;
+    font-weight: bolder;
+    font-size:x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.frnt{
+    color: black
+}
+.f{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.p{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.b{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.s{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.sc{
+    margin-left: 10%;
+    display: flex;
+}
+.sh input{
+    width: 300px;
+    border-radius: 5px;
+    margin-top: 30px;
+    height: 25px;
+}
+
+.j{
+    margin-left: 20px;
+    display: flex;
+    width: 180px;
+    height: 70px;
+}
+.j button{
+    background-color: tomato;
+    width: 80px;
+    height: 40px;
+    border-radius: 15px;
+    color: white;
+    border: none;
+}
+.l{
+    width: 40%;
+    margin-left:50px;
+    margin-top:20px ;
+}
+.form{
+    margin-left: 35%;
+    margin-top: 70px;
+}
+.me{
+    margin-top: 20px;
+}
+.but {
+    margin-left: 0px;
+    margin-top: 30px;
+}
+.but button{
+    background-color: red;
+    width: 230px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+body{
+    background-color: aliceblue;
+}
+.frm input{
+    width: 230px;
+    height: 40px;
+}
+
+

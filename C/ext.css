@@ -1,0 +1,40 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: powderblue;
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+.login{
+	align-self: center;
+	background-color: dodgerblue;
+	width: 342px;
+	overflow: hidden;
+	margin: auto;
+	padding: 100px;
+	border-radius: 22px;
+
+}
+#Sub{
+	margin: auto;
+	height: 30px;
+	width: 360px;
+	border-radius: 22px;
+	background-color: darkblue;
+	color: white;
+
+}
+#Uname{
+	height: 30px;
+	width: 350px;
+
+}
+#Pass{
+	height: 30px;
+	width: 350px;
+}
+span{
+	color: white;
+	
+}
